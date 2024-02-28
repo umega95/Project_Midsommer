@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="weak-authentication-on-the-login-page-resulted-to-a-brute-force-attack-is-this-correct">Weak authentication on the login page resulted to a brute force attack is this correct</h1>
+<h1 id="weak-authentication-on-the-login-page-resulted-to-a-brute-force-attack">Weak authentication on the login page resulted to a brute force attack</h1>
 <h3 id="severity-critical">Severity: Critical</h3>
 <h2 id="issue-description">Issue Description</h2>
 <p>Found a vulnerability on the login page during a security review, which is illustrated by weak authentication methods. This vulnerability made it easier for a brute force assault to succeed, compromising the security integrity of the system.</p>
